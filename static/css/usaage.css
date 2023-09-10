@@ -1,0 +1,17 @@
+.my-font {
+    font-size: 2em;
+}
+
+.container {
+    text-align: center;
+}
+
+.instructions {
+    display: inline-block;
+    background-color: #585858;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}

@@ -1,0 +1,17 @@
+.my-font {
+    font-size: 72px;
+}
+
+.team-member {
+    background-color: #585858;
+    padding: 35px;
+    margin: 36px;
+
+    display: inline-block;
+    text-align: center;
+}
+
+.team-member-image {
+    max-height: 15em;
+    max-width: 15em;
+}

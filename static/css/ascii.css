@@ -1,0 +1,25 @@
+.myForm {
+    background-color: #585858;
+    margin: 20px;
+    padding: 20px;
+}
+
+.my-font {
+    font-size: 3rem;
+}
+
+textarea {
+    resize: both;
+    max-width: 100%;
+}
+
+@media (max-width: 768px) {
+    .my-font {
+        font-size: 2rem;
+    }
+
+    .myForm {
+        margin: 10px;
+        padding: 10px;
+    }
+}
